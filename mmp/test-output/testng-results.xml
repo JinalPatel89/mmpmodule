@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8002" started-at="2018-10-06T16:42:39Z" finished-at="2018-10-06T16:42:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8002" started-at="2018-10-06T16:42:39Z" finished-at="2018-10-06T16:42:47Z">
+      <class name="mmp.SendMessage">
+        <test-method status="PASS" signature="veryfyMMPSendMessage()[pri:0, instance:mmp.SendMessage@28dcca0c]" name="veryfyMMPSendMessage" duration-ms="7956" started-at="2018-10-06T12:42:39Z" finished-at="2018-10-06T12:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veryfyMMPSendMessage -->
+      </class> <!-- mmp.SendMessage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
